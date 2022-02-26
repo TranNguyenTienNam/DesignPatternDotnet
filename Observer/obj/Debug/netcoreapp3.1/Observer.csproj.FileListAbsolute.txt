@@ -1,0 +1,14 @@
+E:\Projects\VisualStudioProjects\DesignPatterns\Observer\bin\Debug\netcoreapp3.1\Observer.exe
+E:\Projects\VisualStudioProjects\DesignPatterns\Observer\bin\Debug\netcoreapp3.1\Observer.deps.json
+E:\Projects\VisualStudioProjects\DesignPatterns\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.json
+E:\Projects\VisualStudioProjects\DesignPatterns\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.dev.json
+E:\Projects\VisualStudioProjects\DesignPatterns\Observer\bin\Debug\netcoreapp3.1\Observer.dll
+E:\Projects\VisualStudioProjects\DesignPatterns\Observer\bin\Debug\netcoreapp3.1\Observer.pdb
+E:\Projects\VisualStudioProjects\DesignPatterns\Observer\obj\Debug\netcoreapp3.1\Observer.csproj.AssemblyReference.cache
+E:\Projects\VisualStudioProjects\DesignPatterns\Observer\obj\Debug\netcoreapp3.1\Observer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VisualStudioProjects\DesignPatterns\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfoInputs.cache
+E:\Projects\VisualStudioProjects\DesignPatterns\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfo.cs
+E:\Projects\VisualStudioProjects\DesignPatterns\Observer\obj\Debug\netcoreapp3.1\Observer.csproj.CoreCompileInputs.cache
+E:\Projects\VisualStudioProjects\DesignPatterns\Observer\obj\Debug\netcoreapp3.1\Observer.dll
+E:\Projects\VisualStudioProjects\DesignPatterns\Observer\obj\Debug\netcoreapp3.1\Observer.pdb
+E:\Projects\VisualStudioProjects\DesignPatterns\Observer\obj\Debug\netcoreapp3.1\Observer.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\Projects\VisualStudioProjects\DesignPatterns\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.exe
+E:\Projects\VisualStudioProjects\DesignPatterns\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.deps.json
+E:\Projects\VisualStudioProjects\DesignPatterns\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.runtimeconfig.json
+E:\Projects\VisualStudioProjects\DesignPatterns\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.runtimeconfig.dev.json
+E:\Projects\VisualStudioProjects\DesignPatterns\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.dll
+E:\Projects\VisualStudioProjects\DesignPatterns\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.pdb
+E:\Projects\VisualStudioProjects\DesignPatterns\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.csproj.AssemblyReference.cache
+E:\Projects\VisualStudioProjects\DesignPatterns\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VisualStudioProjects\DesignPatterns\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.AssemblyInfoInputs.cache
+E:\Projects\VisualStudioProjects\DesignPatterns\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.AssemblyInfo.cs
+E:\Projects\VisualStudioProjects\DesignPatterns\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+E:\Projects\VisualStudioProjects\DesignPatterns\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.dll
+E:\Projects\VisualStudioProjects\DesignPatterns\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.pdb
+E:\Projects\VisualStudioProjects\DesignPatterns\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.genruntimeconfig.cache
