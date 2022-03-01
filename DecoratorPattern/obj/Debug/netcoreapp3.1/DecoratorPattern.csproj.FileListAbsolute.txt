@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\DecoratorPattern\bin\Debug\netcoreapp3.1\DecoratorPattern.exe
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\DecoratorPattern\bin\Debug\netcoreapp3.1\DecoratorPattern.deps.json
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\DecoratorPattern\bin\Debug\netcoreapp3.1\DecoratorPattern.runtimeconfig.json
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\DecoratorPattern\bin\Debug\netcoreapp3.1\DecoratorPattern.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\DecoratorPattern\bin\Debug\netcoreapp3.1\DecoratorPattern.dll
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\DecoratorPattern\bin\Debug\netcoreapp3.1\DecoratorPattern.pdb
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\DecoratorPattern\obj\Debug\netcoreapp3.1\DecoratorPattern.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\DecoratorPattern\obj\Debug\netcoreapp3.1\DecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\DecoratorPattern\obj\Debug\netcoreapp3.1\DecoratorPattern.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\DecoratorPattern\obj\Debug\netcoreapp3.1\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\DecoratorPattern\obj\Debug\netcoreapp3.1\DecoratorPattern.dll
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\DecoratorPattern\obj\Debug\netcoreapp3.1\DecoratorPattern.pdb
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\DecoratorPattern\obj\Debug\netcoreapp3.1\DecoratorPattern.genruntimeconfig.cache

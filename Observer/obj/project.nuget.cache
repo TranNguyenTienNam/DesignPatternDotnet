@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lnjv8d6RxLapBbAuWBUjPDMmVyNWmVuDgVzI0nKBOXMQTeD16MW1pRdd48Z92R9MMohHHb2PTGk9+f4j7i/3aQ==",
+  "dgSpecHash": "luswWkvebo9REpa5W5FXwNuvA1JNamu3cWUzOrt9ElNM/CuDYXkq891CWTAeTWOH9+j1ao522B+KNQRt+Lj8Cw==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\VisualStudioProjects\\DesignPatterns\\Observer\\Observer.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\Documents\\GitHub\\DesignPatternDotnet\\Observer\\Observer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

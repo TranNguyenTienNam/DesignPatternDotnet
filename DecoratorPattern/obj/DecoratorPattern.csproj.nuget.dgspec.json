@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Documents\\GitHub\\DesignPatternDotnet\\ChainOfResponsibility\\ChainOfResponsibility.csproj": {}
+    "C:\\Users\\ADMIN\\Documents\\GitHub\\DesignPatternDotnet\\DecoratorPattern\\DecoratorPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Documents\\GitHub\\DesignPatternDotnet\\ChainOfResponsibility\\ChainOfResponsibility.csproj": {
+    "C:\\Users\\ADMIN\\Documents\\GitHub\\DesignPatternDotnet\\DecoratorPattern\\DecoratorPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\GitHub\\DesignPatternDotnet\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
-        "projectName": "ChainOfResponsibility",
-        "projectPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\DesignPatternDotnet\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\GitHub\\DesignPatternDotnet\\DecoratorPattern\\DecoratorPattern.csproj",
+        "projectName": "DecoratorPattern",
+        "projectPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\DesignPatternDotnet\\DecoratorPattern\\DecoratorPattern.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\DesignPatternDotnet\\ChainOfResponsibility\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\DesignPatternDotnet\\DecoratorPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

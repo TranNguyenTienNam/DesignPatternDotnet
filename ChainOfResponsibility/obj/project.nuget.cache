@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m6Cl8ReDmyZ+fHyyYgfl6oGE3Lj0wa7aaSb4+LIp8Wm7ytpjXc+EVL8KyfSNjP0imF+ZAF9sJx6loxGNX6pnLw==",
+  "dgSpecHash": "QMWZNAU6c94yjP+UQZrNtOnmkVURdBA7Am1oOUfK4AM0Yr6uM3FUgffW9mKV/GmrYU5fQdzySIuNoBLGWW2qsQ==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\VisualStudioProjects\\DesignPatterns\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
+  "projectFilePath": "C:\\Users\\ADMIN\\Documents\\GitHub\\DesignPatternDotnet\\ChainOfResponsibility\\ChainOfResponsibility.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
