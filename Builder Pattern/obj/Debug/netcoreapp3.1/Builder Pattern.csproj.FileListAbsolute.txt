@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\Builder Pattern\bin\Debug\netcoreapp3.1\Builder Pattern.exe
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\Builder Pattern\bin\Debug\netcoreapp3.1\Builder Pattern.deps.json
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\Builder Pattern\bin\Debug\netcoreapp3.1\Builder Pattern.runtimeconfig.json
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\Builder Pattern\bin\Debug\netcoreapp3.1\Builder Pattern.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\Builder Pattern\bin\Debug\netcoreapp3.1\Builder Pattern.dll
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\Builder Pattern\bin\Debug\netcoreapp3.1\Builder Pattern.pdb
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\Builder Pattern\obj\Debug\netcoreapp3.1\Builder Pattern.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\Builder Pattern\obj\Debug\netcoreapp3.1\Builder Pattern.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\Builder Pattern\obj\Debug\netcoreapp3.1\Builder Pattern.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\Builder Pattern\obj\Debug\netcoreapp3.1\Builder Pattern.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\Builder Pattern\obj\Debug\netcoreapp3.1\Builder Pattern.dll
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\Builder Pattern\obj\Debug\netcoreapp3.1\Builder Pattern.pdb
+C:\Users\ADMIN\Documents\GitHub\DesignPatternDotnet\Builder Pattern\obj\Debug\netcoreapp3.1\Builder Pattern.genruntimeconfig.cache
