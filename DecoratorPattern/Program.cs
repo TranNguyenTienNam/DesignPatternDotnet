@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 // 1- Base Interface
 // 2- Concrete Class
 // 3- Base Decorator Class
@@ -9,72 +10,111 @@ namespace DecoratorPattern
     {
         static void Main(string[] args)
         {
+            Console.InputEncoding = Encoding.UTF8;
+            Console.OutputEncoding = Encoding.UTF8;
+
             //Decorator pattern
-            IPizza pizza = new Pizza();
-            IPizza cheeseDecorator = new CheeseDecorator(pizza);
-            IPizza tomatoDecorator = new TomatoDecorator(cheeseDecorator);
-            IPizza onionDecorator = new OnionDecorator(tomatoDecorator);
-            Console.WriteLine(onionDecorator.GetPizzaType());
+            IMilktea milktea = new Milktea();
+            IMilktea tranChauDecorator = new tranChauDecorator(milktea);
+            IMilktea puddingDecorator = new puddingDecorator(tranChauDecorator);
+            IMilktea rauCauDecorator = new rauCauDecorator(puddingDecorator);
+
+            var milktea2 = new rauCauDecorator(
+                              new tranChauDecorator(
+                                 new Milktea()));
+            // Kết quả
+            Console.WriteLine(rauCauDecorator.GetMilkteaType());
+            Console.WriteLine("Giá tiền : " + rauCauDecorator.GetPrice());
+
+            Console.WriteLine(milktea2.GetMilkteaType());
+            Console.WriteLine("Giá tiền : " + milktea2.GetPrice());
             Console.ReadLine();
         }
     }
     // Base Interface
-    interface IPizza
+    interface IMilktea
     {
-        string GetPizzaType();
+        string GetMilkteaType();
+        int GetPrice();
     }
     // Conrete Implementation
-    class Pizza : IPizza
+    class Milktea : IMilktea
     {
-        public string GetPizzaType()
+        public string GetMilkteaType()
         {
-            return "Đây là pizza bình thường";
+            return "Đây là trà sữa ô ki na wa";
+        }
+        public int GetPrice()
+        {
+            return 23000;
         }
     }
     // base decorator
-    class PizzaDecorator : IPizza
+    class MilkteaDecorator : IMilktea
     {
-        private IPizza _pizza;
+        private IMilktea __milktea;
 
-        public PizzaDecorator(IPizza pizza)
+        public MilkteaDecorator(IMilktea pizza)
         {
-            _pizza = pizza;
+            __milktea = pizza;
         }
-        public virtual string GetPizzaType()
+        public virtual string GetMilkteaType()
         {
-            return _pizza.GetPizzaType();
+            return __milktea.GetMilkteaType();
+        }
+        public virtual int GetPrice()
+        {
+            return __milktea.GetPrice();
         }
     }
     
     // concrete decorator
-    class CheeseDecorator : PizzaDecorator
+    class tranChauDecorator : MilkteaDecorator
     {
-        public CheeseDecorator(IPizza pizza) : base(pizza) { }
-        public override string GetPizzaType()
+        public tranChauDecorator(IMilktea pizza) : base(pizza) { }
+        public override string GetMilkteaType()
         {
-            string type = base.GetPizzaType();
-            type += "\r\n with extra cheese";
+            string type = base.GetMilkteaType();
+            type += "\r\n với trân châu";
             return type;
         }
-    }
-    class TomatoDecorator : PizzaDecorator
-    {
-        public TomatoDecorator(IPizza pizza) : base(pizza) { }
-        public override string GetPizzaType()
+        public override int GetPrice()
         {
-            string type = base.GetPizzaType();
-            type += "\r\n with extra tomato";
-            return type;
+            int price = base.GetPrice();
+            price += 10000;
+            return price;
         }
     }
-    class OnionDecorator : PizzaDecorator
+    class puddingDecorator : MilkteaDecorator
     {
-        public OnionDecorator(IPizza pizza) : base(pizza) { }
-        public override string GetPizzaType()
+        public puddingDecorator(IMilktea pizza) : base(pizza) { }
+        public override string GetMilkteaType()
         {
-            string type = base.GetPizzaType();
-            type += "\r\n with extra onion";
+            string type = base.GetMilkteaType();
+            type += "\r\n với pudding";
             return type;
+        }
+        public override int GetPrice()
+        {
+            int price = base.GetPrice();
+            price += 12000;
+            return price;
+        }
+    }
+    class rauCauDecorator : MilkteaDecorator
+    {
+        public rauCauDecorator(IMilktea pizza) : base(pizza) { }
+        public override string GetMilkteaType()
+        {
+            string type = base.GetMilkteaType();
+            type += "\r\n với rau câu";
+            return type;
+        }
+        public override int GetPrice()
+        {
+            int price = base.GetPrice();
+            price += 15000;
+            return price;
         }
     }
 }
